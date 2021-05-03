@@ -1,0 +1,5 @@
+console.log(typeof 'texto')
+console.log(typeof 500) 
+console.log(typeof true) 
+console.log(typeof null)
+console.log(typeof indefinido) 
