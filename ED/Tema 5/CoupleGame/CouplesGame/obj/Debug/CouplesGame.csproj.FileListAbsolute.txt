@@ -1,0 +1,91 @@
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe.config
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\bin\Debug\CouplesGame.pdb
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csprojAssemblyReference.cache
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Form1.resources
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Properties.Resources.resources
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.GenerateResource.cache
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.CoreCompileInputs.cache
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\obj\Debug\CouplesGame.exe
+C:\Users\DAW1-1\source\repos\CouplesGame\CouplesGame\obj\Debug\CouplesGame.pdb
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe.config
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.pdb
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Form1.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.menu.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Properties.Resources.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.GenerateResource.cache
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.exe
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.pdb
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame._6x6.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.partida.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.bienvenida.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.config.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe.config
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.pdb
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Form1.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame._6x6.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.bienvenida.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.config.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.menu.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.partida.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.exe
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.pdb
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Record.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.exe
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.pdb
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Form1.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame._6x6.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.bienvenida.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.config.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.menu.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.partida.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Properties.Resources.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Record.resources
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.GenerateResource.cache
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe.config
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe
+C:\Users\Jamie\source\repos\CouplesGame\CouplesGame\CouplesGame\CouplesGame\bin\Debug\CouplesGame.pdb
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.exe
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.pdb
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe.config
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\bin\Debug\CouplesGame.pdb
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Form1.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame._6x6.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.bienvenida.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.menu.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.partida.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Record.resources
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\bin\Debug\Records.mdf
+C:\Users\Gabriel\Desktop\CouplesGame\CouplesGame\bin\Debug\Records_log.ldf
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\bin\Debug\Records.mdf
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\bin\Debug\Records_log.ldf
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe.config
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\bin\Debug\CouplesGame.exe
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\bin\Debug\CouplesGame.pdb
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csprojAssemblyReference.cache
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Form1.resources
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame._6x6.resources
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.bienvenida.resources
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.menu.resources
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.partida.resources
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Properties.Resources.resources
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.Record.resources
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.GenerateResource.cache
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.csproj.CoreCompileInputs.cache
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.exe
+D:\DAW\Entornos de Desarrollo\Tema 5\CouplesGame\CouplesGame\obj\Debug\CouplesGame.pdb
